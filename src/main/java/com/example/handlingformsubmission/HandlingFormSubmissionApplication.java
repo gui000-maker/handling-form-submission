@@ -1,4 +1,4 @@
-package com.example.handling_form_submission;
+package com.example.handlingformsubmission;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
